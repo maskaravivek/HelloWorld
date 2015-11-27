@@ -1,0 +1,1 @@
+MainPackage=c:\users\vivek\documents\visual studio 2015\Projects\Hello World\Hello World\bin\ARM\Release\Hello World_1.0.0.0_ARM.appx
